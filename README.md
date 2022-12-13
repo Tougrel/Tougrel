@@ -2,9 +2,9 @@
 ________________
 **About me:** 
 
-- Curretly working on **[Shady](https://github.com/Tougrel/Shady)** with **[@z7rwastaken](https://github.com/z7rwastaken)**
+- Curretly working on **[Aura](https://github.com/ShadyDevelopers/Aura)** with **[@z7rwastaken](https://github.com/z7rwastaken)**
 - I'm helping with **[@ComradeTurtle's](https://github.com/ComradeTurtle)** courier api!
-- Once in a while I'm working on my own open source discord bot **[Galaxy Commander](https://github.com/Tougrel/Galaxy-Commander)**
+- Once in a while I'm working on my own open source discord bot **[Ather](https://github.com/Tougrel/Ather)**
 
 *and more private projects!*
 ________________
