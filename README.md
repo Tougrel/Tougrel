@@ -1,4 +1,4 @@
-### Hi there 👋 My name is _Lambros_ or _[Tougrel](https://tougrel.dev)_ and I am a full stack developer!
+### Hi there 👋 My name is _Lampros_ or _[Tougrel](https://gateway.tougrel.dev)_ and I am a full stack developer!
 ________________
 **About me:** 
 
@@ -8,21 +8,16 @@ ________________
 
 *and more private projects!*
 ________________
-### My Skills and Contact Information
 
-- TypeScript/JavaScript
-	- [x] NodeJs
-	- [x] ExpressJs
-	- [x] Vue
-- HTML5 & CSS3
-	- [x] Bootstrap
-	- [x] Tailwind CSS
-	- [x] SCSS
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&hide_border=true)
 
+________________
+### Contact Information
 You can contact me via
-- [tougrel.dev](https://tougrel.dev)
 - [admin@tougrel.dev](mailto:admin@tougrel.dev)
-- [Discord]()
+- [Twitter](https://twitter.com/tougrel)
+- [Telegram](https://t.me/tougrel)
+- [Discord](https://discord.gg/xRTtFkaEyA)
 
 ________________
 ### My GitHub Stats
