@@ -22,3 +22,4 @@ You can contact me via
 ________________
 ### My GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Tougrel&show_icons=true&locale=en&theme=tokyonight&count_private=true&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Tougrel&theme=tokyonight&hide_border=true&include_all_commits=true)
