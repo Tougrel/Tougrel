@@ -1,15 +1,7 @@
-### Hi there 👋 My name is _Lampros_ or _[Tougrel](https://gateway.tougrel.dev)_ and I am a full stack developer!
-________________
-**Working on:** 
+### Hi there 👋 My name is _Lampros_ or _[Tougrel](https://gateway.tougrel.dev)_ and I am a full stack developer
 
-- **[Aura](https://github.com/ShadyDevelopers/Aura)** with **[@z7rwastaken](https://github.com/z7rwastaken)**
-- I'm helping with **[@ComradeTurtle's](https://github.com/ComradeTurtle)** courier api!
-- Once in a while I'm working on my own open source discord bot **[Ather](https://github.com/Tougrel/Ather)**
-
-*and more private projects!*
-________________
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&hide_border=true)
+I have worked on many projects which you can find on my website [tougrel.dev](https://tougrel.dev)!
+> Proud to have worked with the amazing **[Ika](https://github.com/ikanexus)** on [Pestoverse](https://github.com/Tougrel/Pestoverse)! Thank you for the amazing memories [Yuniiho](https://twitter.com/yuniiho) 💚
 
 ________________
 ### Contact Information
@@ -22,7 +14,8 @@ You can contact me via
 ________________
 ### My GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Tougrel&show_icons=true&locale=en&theme=tokyonight&count_private=true&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tougrel&theme=tokyonight&hide_border=true&include_all_commits=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tougrel&theme=tokyonight&hide_border=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&hide_border=true)
 
 ________________
 ### Trophies
